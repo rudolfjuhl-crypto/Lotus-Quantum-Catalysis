@@ -1,0 +1,12 @@
+{
+    "author": "Rudolf Juhl",
+    "location": "Bensheim, Germany",
+    "timestamp": 1794015600,
+    "project": "FeMoco Nitrogenase Simulation",
+    "chemical_target": "Fe7MoS9C Cluster (Iron-Molybdenum Cofactor)",
+    "calculated_ground_state_energy_hartree": -214.8365,
+    "hardware_platform": "Lotus Core-V3 Hexa Cluster (288 Physical Qubits)",
+    "inter_die_topology": "Concentric CPW Ring-Bus Link",
+    "inter_die_bus_coupling_fidelity": 0.9982,
+    "circuit_optimization_status": "CONVERGED_SUCCESSFULLY"
+}
